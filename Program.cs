@@ -12,6 +12,7 @@ namespace HelloWorld4___
         {
             Console.WriteLine("oh nyoo step bro im stuck in the washing machine >~<");
             Console.ReadKey(true);
+            Console.Beep(10000, 32767);
         }
     }
 }
